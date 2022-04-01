@@ -2,7 +2,7 @@
 
 ## イメージの作成
 ```
-gcloud build --tag gcr.io/YOUR_PROJECT_ID/YOUR_IMAGE_NAME
+gcloud build submit --tag gcr.io/YOUR_PROJECT_ID/YOUR_IMAGE_NAME
 ```
 
 ## イメージのデプロイ
